@@ -17,7 +17,7 @@
 
 ### Screenshot
 
-![](image/Screenshot%20Color%20Changer.jpg)
+![alt text](https://github.com/cometcrisis/color-changer-project/image/Screenshot%20Color%20Changer.jpg)
 
 ### Links
 
